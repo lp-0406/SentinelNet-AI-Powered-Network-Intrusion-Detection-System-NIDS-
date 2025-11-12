@@ -8,13 +8,12 @@
 ![Machine Learning](https://img.shields.io/badge/ML-Supervised%20%7C%20Unsupervised-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
----
+
 
 ## 📘 Overview
 **SentinelNet** is an AI-powered **Network Intrusion Detection System (NIDS)** that automatically monitors and analyzes network traffic to detect suspicious or malicious behavior in real time.  
 By leveraging **machine learning algorithms**, SentinelNet identifies potential threats, anomalies, and attacks — providing intelligent alerts and visual insights.
 
----
 
 ## 🎯 Objectives
 - Detect and classify **network intrusions** using supervised and unsupervised learning.
@@ -22,7 +21,6 @@ By leveraging **machine learning algorithms**, SentinelNet identifies potential 
 - Enable **real-time traffic monitoring** with a user-friendly dashboard.
 - Provide interpretable metrics and visual results for cybersecurity analysis.
 
----
 
 ## 🧠 Key Features
 ✅ Real-time intrusion detection  
@@ -32,7 +30,7 @@ By leveraging **machine learning algorithms**, SentinelNet identifies potential 
 ✅ Optional dashboard built using Streamlit  
 ✅ Scalable for IoT and enterprise network environments  
 
----
+
 
 ## 📊 Dataset
 The system is trained and tested using publicly available intrusion detection datasets:
@@ -47,7 +45,7 @@ A modern dataset capturing real network traffic with various attack scenarios:
 **Attacks:** DDoS, Brute Force, Infiltration, Botnet, Web Attack, etc.  
 Provides flow-level features such as packet counts, byte rates, and duration.
 
----
+
 
 ## ⚙️ Workflow
 ```mermaid
